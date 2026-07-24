@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: quartz-themes.github.io/tokyo-night
+  baseUrl: quartz.jzhao.xyz
   ignorePatterns:
     - private
     - templates
